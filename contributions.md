@@ -12,3 +12,8 @@
 | 11     | Edited [article](https://en.wikipedia.org/w/index.php?title=List_of_New_York_University_honorary_degree_recipients&diff=prev&oldid=836420479) | Wikipedia |
 | 11     | Edited [article](https://en.wikipedia.org/w/index.php?title=Andre_Ingram&diff=prev&oldid=836462858) | Wikipedia |
 | 11     | Edited [article](https://en.wikipedia.org/w/index.php?title=Anna_Akana&diff=prev&oldid=836464261) | Wikipedia |
+| 12     | Edited [map](https://www.openstreetmap.org/changeset/58300818#map=19/40.77760/-73.90864&layers=N) | OpenStreetMap |
+| 12     | Edited [map](https://www.openstreetmap.org/changeset/58300799#map=19/40.77543/-73.91128&layers=N) | OpenStreetMap |
+| 12     | Edited [map](https://www.openstreetmap.org/changeset/58300790#map=19/40.77558/-73.91110&layers=N) | OpenStreetMap |
+| 12     | Edited [map](https://www.openstreetmap.org/changeset/58300777#map=19/40.77567/-73.91093&layers=N) | OpenStreetMap |
+| 12     | Edited [map](https://www.openstreetmap.org/changeset/58300759#map=19/40.77479/-73.91263&layers=N) | OpenStreetMap |
