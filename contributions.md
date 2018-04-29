@@ -17,3 +17,5 @@
 | 12     | Edited [map](https://www.openstreetmap.org/changeset/58300790#map=19/40.77558/-73.91110&layers=N) | OpenStreetMap |
 | 12     | Edited [map](https://www.openstreetmap.org/changeset/58300777#map=19/40.77567/-73.91093&layers=N) | OpenStreetMap |
 | 12     | Edited [map](https://www.openstreetmap.org/changeset/58300759#map=19/40.77479/-73.91263&layers=N) | OpenStreetMap |
+| 13     | Opened [issue](https://github.com/OpenEmu/OpenEmu/issues/3615) | Other |
+| 13     | Opened [issue](https://github.com/pixijs/pixi.js/issues/4876) | Other |
