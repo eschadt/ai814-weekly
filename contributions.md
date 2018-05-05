@@ -19,3 +19,4 @@
 | 12     | Edited [map](https://www.openstreetmap.org/changeset/58300759#map=19/40.77479/-73.91263&layers=N) | OpenStreetMap |
 | 13     | Opened [issue](https://github.com/OpenEmu/OpenEmu/issues/3615) | Other |
 | 13     | Opened [issue](https://github.com/pixijs/pixi.js/issues/4876) | Other |
+| 14     | Submitted [pull request](https://github.com/pixijs/pixi.js/pull/4896) | Other |
